@@ -13,7 +13,7 @@ A generic, type-safe set data structure implementation for Go.
 ## Installation
 
 ```bash
-go get github.com/eebeast/set
+go get github.com/eebeast/golang-set
 ```
 
 ## Quick Start
@@ -23,7 +23,7 @@ package main
 
 import (
     "fmt"
-    "github.com/eebeast/set"
+    "github.com/eebeast/golang-set"
 )
 
 func main() {
